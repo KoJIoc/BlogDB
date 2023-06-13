@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogDB", "BlogDB\BlogDB.csproj", "{0EE6D38C-1BFC-43BF-BB3F-EBB3B2D36B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogDbTests", "BlogDbTests\BlogDbTests.csproj", "{30CEBC30-2C3E-4684-BF15-C3D2DE78E1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE6D38C-1BFC-43BF-BB3F-EBB3B2D36B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE6D38C-1BFC-43BF-BB3F-EBB3B2D36B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE6D38C-1BFC-43BF-BB3F-EBB3B2D36B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE6D38C-1BFC-43BF-BB3F-EBB3B2D36B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30CEBC30-2C3E-4684-BF15-C3D2DE78E1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30CEBC30-2C3E-4684-BF15-C3D2DE78E1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30CEBC30-2C3E-4684-BF15-C3D2DE78E1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30CEBC30-2C3E-4684-BF15-C3D2DE78E1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06742CFB-14C6-41C9-A8D0-C76A3A6CAE63}
+	EndGlobalSection
+EndGlobal
